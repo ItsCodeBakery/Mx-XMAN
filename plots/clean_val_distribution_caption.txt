@@ -1,0 +1,1 @@
+Figure: val distribution after SHA1/pHash de-dup and per-class greedy grouped 70/20/10 split. Small-class feasibility is respected (1–2 groups stay in train/val).
