@@ -1,5 +1,5 @@
 {
-  "epoch": 3,
-  "best_val_acc": 0.9034719572682183,
-  "timestamp_utc": "2025-10-01T08:29:58Z"
+  "epoch": 4,
+  "best_val_acc": 0.9366653948874475,
+  "timestamp_utc": "2025-10-01T08:31:01Z"
 }
