@@ -1,0 +1,6 @@
+Figure set: Baseline diagnostics on the Blended Malware Image Dataset for Mv-XMAN.
+(1) Learning curves: TinyCNN training/validation cross-entropy loss and accuracy across epochs.
+    The x-axis is the discrete epoch index; y-axes quantify loss and accuracy respectively.
+(2) Confusion matrices: TinyCNN and Linear Probe (byte-frequency texture) evaluated on the validation split.
+    The x-axis enumerates predicted malware families; the y-axis lists true families. Cell counts are validation sample totals per class pair.
+    These matrices highlight which families are separable under minimal inductive bias (linear) and a small CNN, informing capacity and augmentation choices.
