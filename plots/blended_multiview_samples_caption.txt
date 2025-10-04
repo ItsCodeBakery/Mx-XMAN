@@ -1,0 +1,3 @@
+Figure: Representative multi-view visualizations used by Mv-XMAN.
+Columns depict: Byteplot-normalized (left), Hilbert remap, Local entropy map, and Byte-frequency texture (right).
+These complementary representations expose different aspects of the underlying byte structure for robust classification.
