@@ -1,0 +1,1 @@
+Figure: Validation accuracy for each representation-specific head compared to simple equal averaging and the learned gated ensemble. This figure isolates where performance is gained or lost and verifies that learned gating improves upon naive averaging.

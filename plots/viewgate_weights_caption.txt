@@ -1,0 +1,1 @@
+Figure: Mean ViewGate weights across the validation set. The y-axis shows the normalized importance that the learned gate assigns to each representation. Higher weight indicates stronger contribution to the final logits for a typical sample. This plot clarifies which representations (byteplot, Hilbert remap, entropy, opcodegram) the model relies on most.

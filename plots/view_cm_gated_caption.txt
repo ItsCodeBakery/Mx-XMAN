@@ -1,0 +1,1 @@
+Figure: Confusion matrix for the gated ensemble on the validation set. Rows correspond to true malware families and columns to predicted families. Block-diagonal dominance indicates strong class separability; off-diagonal structure reveals systematic confusions to address.

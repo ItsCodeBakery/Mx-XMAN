@@ -1,0 +1,49 @@
+{
+  "accuracies": {
+    "v1": 0.6163588390501319,
+    "v2": 0.17546174142480211,
+    "v3": 0.22770448548812666,
+    "v4": 0.07757255936675461,
+    "avg": 0.4656992084432718,
+    "gated": 0.49155672823219
+  },
+  "avg_gate_weights": {
+    "byteplot": 0.22517618536949158,
+    "hilbert": 0.16231724619865417,
+    "entropy": 0.36338481307029724,
+    "opcodegram": 0.24912166595458984
+  },
+  "classes": [
+    "Adposhel",
+    "Agent",
+    "Allaple",
+    "Alueron.gen!J",
+    "Amonetize",
+    "Androm",
+    "Autorun",
+    "BrowseFox",
+    "C2LOP.gen!g",
+    "Dialplatform.B",
+    "Dinwod",
+    "Elex",
+    "Expiro",
+    "Fakerean",
+    "Fasong",
+    "HackKMS",
+    "Hlux",
+    "Injector",
+    "InstallCore",
+    "Lolyda.AA1",
+    "Lolyda.AA2",
+    "MultiPlug",
+    "Neoreklami",
+    "Neshta",
+    "Regrun",
+    "Sality",
+    "Snarasite",
+    "Stantinko",
+    "VBA",
+    "VBKrypt",
+    "Vilsel"
+  ]
+}
