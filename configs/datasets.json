@@ -3,5 +3,13 @@
   "seed": 42,
   "indices": {
     "blended": "/kaggle/working/Mx-XMAN/metadata/index_blended_clean_groups.csv"
+  },
+  "datasets": {
+    "blended": {
+      "root": "/kaggle/input/blended-malware-image-dataset/malware_dataset",
+      "indexed_csv": "/kaggle/working/Mx-XMAN/metadata/index_blended.csv",
+      "clean_grouped_csv": "/kaggle/working/Mx-XMAN/metadata/index_blended_clean_groups.csv",
+      "classes_json": "/kaggle/working/Mx-XMAN/metadata/classes_blended.json"
+    }
   }
 }
