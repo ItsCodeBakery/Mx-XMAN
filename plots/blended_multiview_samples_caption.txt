@@ -1,3 +1,4 @@
-Figure: Representative multi-view visualizations used by Mv-XMAN.
-Columns depict: Byteplot-normalized (left), Hilbert remap, Local entropy map, and Byte-frequency texture (right).
-These complementary representations expose different aspects of the underlying byte structure for robust classification.
+Figure: Four deterministic views per malware image at 224×224 resolution.
+V1 Byteplot preserves raw luminance structure; V2 Z-order Map imposes a space-filling curve ordering;
+V3 Local Entropy highlights texture/irregularity; V4 FFT-Gram captures global frequency patterns.
+These orthogonal representations support explainable late-fusion downstream.
