@@ -32,37 +32,5 @@
     "VBKrypt",
     "Vilsel"
   ],
-  "class_to_idx": {
-    "Adposhel": 0,
-    "Agent": 1,
-    "Allaple": 2,
-    "Alueron.gen!J": 3,
-    "Amonetize": 4,
-    "Androm": 5,
-    "Autorun": 6,
-    "BrowseFox": 7,
-    "C2LOP.gen!g": 8,
-    "Dialplatform.B": 9,
-    "Dinwod": 10,
-    "Elex": 11,
-    "Expiro": 12,
-    "Fakerean": 13,
-    "Fasong": 14,
-    "HackKMS": 15,
-    "Hlux": 16,
-    "Injector": 17,
-    "InstallCore": 18,
-    "Lolyda.AA1": 19,
-    "Lolyda.AA2": 20,
-    "MultiPlug": 21,
-    "Neoreklami": 22,
-    "Neshta": 23,
-    "Regrun": 24,
-    "Sality": 25,
-    "Snarasite": 26,
-    "Stantinko": 27,
-    "VBA": 28,
-    "VBKrypt": 29,
-    "Vilsel": 30
-  }
+  "num_classes": 31
 }

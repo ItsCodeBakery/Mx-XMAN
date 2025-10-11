@@ -1,0 +1,9 @@
+{
+  "exact_sha1_duplicates_dropped": 644,
+  "total_images_after_dedup": 13103,
+  "splits": {
+    "train": 9313,
+    "val": 3790
+  },
+  "num_classes": 31
+}

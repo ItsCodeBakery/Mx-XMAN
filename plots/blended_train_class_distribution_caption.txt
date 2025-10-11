@@ -1,3 +1,3 @@
-Figure: Training set class distribution for the Blended Malware Image Dataset used by Mv-XMAN.
-The x-axis enumerates malware families in alphabetical order; the y-axis reports the number of training images.
-This figure quantifies inter-class imbalance, motivating a class-balanced sampler during training.
+Figure: Training set class distribution for the Blended Malware Image Dataset. 
+The x-axis lists malware families in alphabetical order; the y-axis shows the number of training images per family. 
+This plot exposes inter-class imbalance, guiding the use of weighted sampling during training.
