@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Data/cache
+cache/
+*.npz
+
+# Checkpoints & logs
+checkpoints/
+logs/
+tb/
+
+# OS/Jupyter
+.DS_Store
+*.swp
+*.swo
+
+# Plots are committed (keep them)
+# plots/

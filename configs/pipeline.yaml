@@ -1,0 +1,16 @@
+dataset:
+  slug: blended-malware-image-dataset
+  root: /kaggle/input/blended-malware-image-dataset/malware_dataset
+paths:
+  repo: /kaggle/working/Mx-XMAN
+  configs: /kaggle/working/Mx-XMAN/configs
+  metadata: /kaggle/working/Mx-XMAN/metadata
+  cache: /kaggle/working/Mx-XMAN/cache
+  checkpoints: /kaggle/working/Mx-XMAN/checkpoints
+  logs: /kaggle/working/Mx-XMAN/logs
+  plots: /kaggle/working/Mx-XMAN/plots
+  tensorboard: /kaggle/working/Mx-XMAN/tb
+github:
+  owner: ItsCodeBakery
+  repo: Mx-XMAN
+  email: ashayan29@gmail.com
