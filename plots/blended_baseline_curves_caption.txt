@@ -1,0 +1,3 @@
+Figure: TinyCNN baseline training dynamics. Left panel: cross-entropy loss averaged per epoch for training and validation splits. 
+Right panel: classification accuracy per epoch. Bold axes denote epoch counts (x-axis) and the corresponding objective (y-axis).
+This plot validates optimization is proceeding and exposes under/overfitting trends for the minimal baseline.

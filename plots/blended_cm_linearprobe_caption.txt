@@ -1,0 +1,3 @@
+Figure: Confusion matrix for the pooled-feature **Linear Probe** on the validation set.
+Axes are bold and enumerate the 31 malware families; diagonal dominance indicates linearly separable families.
+This CM visualizes class-wise separability of the 4-view pooled representation; displayed accuracy (fit on val for visualization): 0.9784.

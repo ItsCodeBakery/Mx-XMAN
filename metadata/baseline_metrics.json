@@ -40,5 +40,12 @@
     "final_train_acc": 0.297434,
     "final_val_loss": 2.392334,
     "final_val_acc": 0.259894
+  },
+  "tinycnn_val_acc_from_cm": 0.260158,
+  "linear_probe_val_acc_visualized": 0.978364,
+  "figures": {
+    "curves": "/kaggle/working/Mx-XMAN/plots/blended_baseline_curves.png",
+    "cm_tinycnn": "/kaggle/working/Mx-XMAN/plots/blended_cm_tinycnn.png",
+    "cm_linearprobe": "/kaggle/working/Mx-XMAN/plots/blended_cm_linearprobe.png"
   }
 }

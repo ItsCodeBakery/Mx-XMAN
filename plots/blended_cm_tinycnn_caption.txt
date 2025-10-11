@@ -1,0 +1,4 @@
+Figure: Confusion matrix for TinyCNN baseline on the validation set (31 malware families).
+The x-axis (bold) denotes **predicted family**, the y-axis (bold) denotes **true family**.
+Diagonal intensity indicates correct predictions; off-diagonal cells quantify misclassifications between families.
+Overall TinyCNN validation accuracy: 0.2602.
